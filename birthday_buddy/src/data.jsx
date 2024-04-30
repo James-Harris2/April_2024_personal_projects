@@ -29,7 +29,7 @@ export default [
     },
     {
       id: 5,
-      name: 'Mama Bear & 3 club_kids',
+      name: 'Mama Bear & the 3 club_kids',
       age: 28,
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
